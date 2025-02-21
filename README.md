@@ -1,2 +1,2 @@
-# SAMMY_chatbot-SJSU-
-LLM+RAG Chatbot for SJSU
+# vigilant-sammy
+Advanced LLM framework for Sammy and social networks of SJSU
